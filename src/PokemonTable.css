@@ -1,0 +1,21 @@
+.pokemon-table {
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+
+.pokemon-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.pokemon-table th,
+.pokemon-table td {
+    padding: 10px 25px;
+}
