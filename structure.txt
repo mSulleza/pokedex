@@ -1,0 +1,8 @@
+App
+|
+--- Pokemon List
+   |
+   --- Pokemon
+       |
+       --- Image --- Name --- Type --- Abilities
+     
